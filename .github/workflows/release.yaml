@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - nextdoor
 
 jobs:
   release:
